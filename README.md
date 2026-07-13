@@ -1,5 +1,15 @@
 ## 🎥 Synthetic Data Generation for Industrial Object Detection
 
+<p align="center">
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7458692245517455361/">
+    <img src="assets/Synthetic_unloading.png" alt="Synthetic Data Generation Demo" width="900">
+  </a>
+</p>
+
+<p align="center">
+<b>🎥 Click the image above to watch the full demo video on LinkedIn.</b>
+</p>
+
 This project presents a synthetic-to-real data generation pipeline for **Unsupervised Domain Adaptation (UDA)** in industrial object detection. The synthetic dataset was created in **Blender** to simulate the loading system of a laser tube cutting machine.
 
 ### Overview
@@ -27,6 +37,16 @@ The generated synthetic dataset serves as the **source domain**, while real indu
 - Designed for synthetic-to-real domain adaptation research
 
 ---
+
+<p align="center">
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7458692245517455361/">
+    <img src="assets/uda_synthetic.png" alt="UDA Pipeline" width="900">
+  </a>
+</p>
+
+<p align="center">
+<b>Figure:</b> Synthetic-to-Real Domain Adaptation Pipeline
+</p>
 
 ## 🎬 Demo Video
 
